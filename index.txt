@@ -1,3 +1,4 @@
 first text file.
 
 adding more text to the file.
+adding content for merge conflict.
