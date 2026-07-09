@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 i am adding a button.
-=======
 i am adding a dropdown.
->>>>>>> second-branch
+now its time to check rebase.
