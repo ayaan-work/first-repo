@@ -1,4 +1,6 @@
 first text file.
 
 adding more text to the file.
-adding content for merge conflict.
+adding content for merge conflict
+
+changes made form second branch..
